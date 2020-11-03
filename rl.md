@@ -2,7 +2,6 @@
 title: Reinforcement Learning
 subtitle: Someday I will understand this
 layout: page
-cover-img: "https://maelfabien.github.io/assets/images/rl_head.jpg"
 ---
 
 

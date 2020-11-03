@@ -2,7 +2,6 @@
 title: Computer Vision
 subtitle: From classical theory to deep learning
 layout: page
-cover-img: "https://maelfabien.github.io/assets/images/cv_head.png"
 ---
 
 A series of articles dedicated to computer vision. All codes and exercises of this section are hosted on GitHub in a dedicated repository :

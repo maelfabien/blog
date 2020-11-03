@@ -1,7 +1,5 @@
 ---
-layout: archive
-permalink: /papers/
-author_profile: true
+layout: page
 title: "Papers and submissions"
 ---
 

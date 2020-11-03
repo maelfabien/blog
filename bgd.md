@@ -2,7 +2,6 @@
 title: Data Engineering
 subtitle: Enough to survive as a data scientist
 layout: page
-cover-img: "https://maelfabien.github.io/assets/images/bgd_head.png"
 ---
 
 A series of articles dedicated to Big Data analytics and Data Engineering. All codes and exercises of my blog are hosted on GitHub in a dedicated repository :

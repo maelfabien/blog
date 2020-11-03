@@ -2,7 +2,6 @@
 title: Deep Learning
 subtitle: Probably what you came for
 layout: page
-cover-img: "https://maelfabien.github.io/assets/images/dl_head.png"
 ---
 
 A series of articles dedicated to deep learning. All codes and exercises of this section are hosted on GitHub in a dedicated repository :

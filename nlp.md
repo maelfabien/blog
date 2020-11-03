@@ -2,7 +2,6 @@
 title: Natural Language Processing
 subtitle: Remember when feature extraction was cool?
 layout: page
-cover-img: "https://maelfabien.github.io/assets/images/nlp_head.png"
 ---
 
 
