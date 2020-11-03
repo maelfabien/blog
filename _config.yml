@@ -34,7 +34,8 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "assets/images/mf_logo_short.jpg"
+avatar: "/assets/images/mf_logo_short.jpg"
+
 # "/assets/images/profile.jpg"
 # "assets/images/mf_logo_short.jpg"
 
