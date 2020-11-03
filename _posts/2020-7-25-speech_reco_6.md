@@ -2,7 +2,6 @@
 layout: post
 title: Intro to ASR with Multilingual and Low-Resource Speech Recognition
 subtitle: Episode 6 over 6
-cover-img: "https://maelfabien.github.io/assets/images/lgen_head.png"
 tags: [speech, phd]
 comments: true
 ---
