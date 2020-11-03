@@ -16,19 +16,19 @@ author: Mael Fabien
 navbar-links:
   About Me: "aboutme"
   Machine Learning blog:
-    - Publications: "pages/papers"
-    - My Ph.D. process: "pages/phd"
-    - Machine Learning basics: "pages/ml"
-    - Deep Learning: "pages/dl"
-    - Data Engineering: "pages/bgd"
-    - Natural Language Processing: "pages/nlp"
-    - Computer Vision: "pages/cv"
-    - Signal Processing: "pages/signal"
-    - Reinforcement Learning: "pages/rl"
-    - Entrepreneurship: "pages/ent"
-  Project: "pages/portfolio"
-  Hobbies: "pages/other"
-  CV: "pages/resume"
+    - Publications: "papers"
+    - My Ph.D. process: "phd"
+    - Machine Learning basics: "ml"
+    - Deep Learning: "dl"
+    - Data Engineering: "bgd"
+    - Natural Language Processing: "nlp"
+    - Computer Vision: "cv"
+    - Signal Processing: "signal"
+    - Reinforcement Learning: "rl"
+    - Entrepreneurship: "ent"
+  Project: "portfolio"
+  Hobbies: "other"
+  CV: "resume"
 
 # --- Logo --- #
 
