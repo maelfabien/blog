@@ -3,40 +3,95 @@ title: Resume
 layout: page
 ---
 
-
 <style>
-.button {
-  display: inline-block;
-  padding: 15px 25px;
-  font-size: 24px;
-  cursor: pointer;
-  text-align: center;
-  text-decoration: none;
-  outline: none;
-  color: #fff;
-  background-color: #7187bd;
-  border: none;
-  border-radius: 15px;
-  box-shadow: 0 9px #999;
+
+  @import "compass/css3";
+
+  /* Some vars */
+  $background-color: hsl(50, 5, 97);
+  $black: hsl(200, 40, 10);
+  $white: $background-color;
+  $base-font-size: 2em;
+  $base-line-height: 1.3em;
+
+  .ludwig {
+  position: relative;
+  padding-left: 1em;
+  border-left: 0.2em solid lighten($black, 40%);
+  font-family: 'Roboto', serif;
+  font-size: $base-font-size;
+  line-height: $base-line-height;
+  font-weight: 100;
+  &:before, &:after {
+      content: '\201C';
+      font-family: 'Sanchez';
+      color: lighten($black, 40%);
+   }
+   &:after {
+      content: '\201D';
+   }
+  }
+
+.column {
+  align-content:center;
+  float: left;
+  width: 50%;
+  height: 100%;
 }
 
-.button:hover {background-color: #7187bd}
+.column_home {
+  align-content:center;
+  float: left;
+  width: 20%;
+  height: 100%;
+}
 
-.button:active {
-  background-color: #7187bd;
-  box-shadow: 0 5px #666;
-  transform: translateY(4px);
+
+.center_text {
+  align-content:center;
+  width: 50%;
+  vertical-align: middle;
+  text-align:justify;
+  text-align-last: center;
+}
+
+#left-col {
+  align-content:center;
+  text-align: center;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+i {
+  font-size: 0.4em;
+}
+
+
+#right-col {
+  align-content:center;
+  text-align: center;
 }
 </style>
 
-<button class="button" onclick="location.href='https://maelfabien.github.io/assets/images/CV_MF.pdf'" type="button">Download the PDF version</button>
+<div class="row">
 
+  <div class="column_home" id="left-col" align="center">
+    <div style="width:100%; text-align:justify; align-content:left; display:inline-block;">
+    <input action="action" class="button" type="button" value="Download PDF" onclick="location.href='https://maelfabien.github.io/assets/images/CV_MF.pdf';"/>
+    </div>
+  </div>
 
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+</div>
 
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="fr_FR" data-type="horizontal" data-theme="light" data-vanity="mael-fabien"><a class="LI-simple-link" href='https://ch.linkedin.com/in/mael-fabien?trk=profile-badge'>Maël Fabien</a></div>
-
-<br>
 
 # Education
 

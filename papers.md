@@ -82,6 +82,7 @@ i {
 }
 </style>
 
+
 ## Research
 
 My reaearch focus, regarding ROXANNE EU-funded project, is speaker verification and speech recognition in the context of criminal activities. I explore the various ways to leverage criminal network topology. I am more broadly interested in applied Machine Learning, and in applications of ML in the Medical Field. My girlfriend is doing a PhD after having obtained her medical degree, so I would expect that at some point we try to publish something together :)
