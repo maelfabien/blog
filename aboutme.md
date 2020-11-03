@@ -4,8 +4,6 @@ title: About me
 subtitle: I'm nice, you can email me
 ---
 
-<p style="font-size:0.5em">Current status: Ph.D. Student at Idiap/EPFL, Switzerland, working@home, on Roxanne EU Project. Freelance instructor on the side.</p>
-
 Welcome to my blog. My name is Maël and I'm a Data Scientist and  Ph.D. student at Idiap research institute (EPFL) in Speech Processing, on [ROXANNE European Project](https://roxanne-euproject.org/).
 
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
