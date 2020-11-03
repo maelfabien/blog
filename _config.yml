@@ -16,6 +16,7 @@ author: Mael Fabien
 navbar-links:
   About Me: "aboutme"
   Machine Learning blog:
+    - Publications: "pages/papers"
     - My Ph.D. process: "pages/phd"
     - Machine Learning basics: "pages/ml"
     - Deep Learning: "pages/dl"
@@ -25,7 +26,6 @@ navbar-links:
     - Signal Processing: "pages/signal"
     - Reinforcement Learning: "pages/rl"
     - Entrepreneurship: "pages/ent"
-  Publications: "pages/papers"
   Project: "pages/portfolio"
   Hobbies: "pages/other"
   CV: "pages/resume"
