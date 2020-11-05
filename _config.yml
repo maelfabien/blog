@@ -17,7 +17,7 @@ navbar-links:
   About Me: "aboutme"
   Machine Learning blog:
     - Publications: "papers"
-    - My Ph.D. process: "phd"
+    - My Ph.D. blog: "phd"
     - Machine Learning basics: "ml"
     - Deep Learning: "dl"
     - Data Engineering: "bgd"
@@ -26,6 +26,7 @@ navbar-links:
     - Signal Processing: "signal"
     - Reinforcement Learning: "rl"
     - Entrepreneurship: "ent"
+    - On Medium: "medium"
   Project: "portfolio"
   Hobbies: "other"
   CV: "resume"
