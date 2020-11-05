@@ -1,5 +1,5 @@
 ---
-title: Social network analysis as a tool for criminal intelligence: Understanding its potential from the perspectivesof intelligence analysts
+title: Social network analysis as a tool for criminal intelligence, understanding its potential from the perspectives of intelligence analysts
 layout: post
 tags: [machinelearning]
 subtitle : "Criminal Networks"
