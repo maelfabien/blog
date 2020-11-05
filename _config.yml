@@ -15,7 +15,7 @@ author: Mael Fabien
 
 navbar-links:
   About Me: 
-    - Presentation: "aboutme"
+    - Intro: "aboutme"
     - CV: "resume"
   Machine Learning blog:
     - Publications: "papers"
