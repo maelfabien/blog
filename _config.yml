@@ -14,7 +14,9 @@ author: Mael Fabien
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: 
+    - Presentation: "aboutme"
+    - CV: "resume"
   Machine Learning blog:
     - Publications: "papers"
     - My Ph.D. blog: "phd"
@@ -29,7 +31,6 @@ navbar-links:
     - On Medium: "medium"
   Project: "portfolio"
   Hobbies: "other"
-  CV: "resume"
 
 # --- Logo --- #
 
