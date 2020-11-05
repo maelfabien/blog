@@ -89,11 +89,12 @@ My research focus, regarding ROXANNE EU-funded project, is speaker verification 
 
 ## Publications
 
-07.2020 - Paper submitted to CoNLL: News to be shared soon
+
+10.2020 - Several papers submitted to ICON2020: News to be shared soon
 
 ---
 
-05.2020 - Paper submitted to Interspeech: ["Speaker Identification Enhancement using Network Knowledge in Criminal Investigations"](https://arxiv.org/abs/2006.02093), *Mael Fabien, Seyyed Saeed Sarfjoo, Petr Motlicek, Srikanth Madikeri*
+10.2020 - Paper submitted to ICASSP: ["Speaker Identification Enhancement using Network Knowledge in Criminal Investigations"](https://arxiv.org/abs/2006.02093), *Mael Fabien, Seyyed Saeed Sarfjoo, Petr Motlicek, Srikanth Madikeri*
 
 <div class="row">
 
@@ -110,6 +111,21 @@ My research focus, regarding ROXANNE EU-funded project, is speaker verification 
   </div>
 
 </div>
+
+---
+
+08.2020 - Poster and presentation accepted at TIM 2020 (Traitement de l'Information Multimodale): Real time network, text and speaker analytics for combating organized crime
+
+<div class="row">
+
+  <div class="column_home" id="left-col" align="center">
+    <div style="width:100%; text-align:justify; align-content:left; display:inline-block;">
+    <input action="action" class="button" type="button" value="Slides" onclick="location.href='https://maelfabien.github.io/assets/files/ROXANNE_TIM.pdf';"/>
+    </div>
+  </div>
+
+</div>
+
 
 ---
 
