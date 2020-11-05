@@ -12,9 +12,6 @@ This article is a practical approach to the OpenPose library. A second article w
 
 NB: OpenPose License clearly states that any commercial use in the domain of sports is prohibited. This simply is a toy example for personal use.
 
-{% highlight python %}
-{% endhighlight %}
-
 ## Functionalities
 
 For detailed information, please check the GitHub repository of the [project](https://github.com/CMU-Perceptual-Computing-Lab/openpose).
@@ -144,7 +141,5 @@ To save the keypoints positions as X,Y coordinates, use :
 The ```--display 0 --render_pose 0``` allows the algorithm to run without the video popup. 
 
 It's time to check the final output of our work!
-
-{% include video id="ZreEaLSgQcc" provider="youtube" %}
 
 > **Conclusion **: I hope you enjoyed this quick tutorial on OpenPose for macOS. I am looking forward to making a more developed article on the field of pose recognition!
