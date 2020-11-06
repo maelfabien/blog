@@ -3,6 +3,8 @@ layout: home
 title: Mael Fabien
 subtitle: Machine Learning blog
 css: "/assets/css/index.css"
+cover-img:
+  - "/assets/img/big-imgs/header.jpeg" : "Brittany, 2020"
 ---
 
 <div class="list-filters">
