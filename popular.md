@@ -8,8 +8,7 @@ css: "/assets/css/index.css"
 <div class="list-filters">
   <a href="/" class="list-filter">All posts</a>
   <a href="/popular" class="list-filter filter-selected">Most Popular</a>
-  <a href="/tutorials" class="list-filter">Tutorials</a>
-  <a href="/tags" class="list-filter">Index</a>
+  <a href="/tags" class="list-filter">Tags</a>
 </div>
 
 {% assign posts = paginator.posts | default: site.posts %}
